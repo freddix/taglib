@@ -1,7 +1,7 @@
 Summary:	A tag library for reading and editing audio meta data
 Name:		taglib
 Version:	1.9.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Libraries
 Source0:	http://taglib.github.io/releases/%{name}-%{version}.tar.gz
